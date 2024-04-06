@@ -1,6 +1,6 @@
-## Gabriel Dylan, estudante de programação e entusiasta em segurança da informação!!🐉
+## Gabriel Dylan
 - Estudante de Analise e desenvolvimento de sistemas.
-- Amante de seginfo e ferramentas de pentester.
+- Etudando programação C#
 - Sempre disposto a aprender mais. 
 
 <div align="center">
