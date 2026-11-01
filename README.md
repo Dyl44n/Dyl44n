@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://wa.me/79998547050">
+<a href="https://wa.me/(79)998547050">
   <img src="https://img.shields.io/badge/WHATSAPP-8b0000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
@@ -106,7 +106,7 @@
   <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
-<a href="https://wa.me/79998547050">
+<a href="https://wa.me/(79)998547050">
   <img src="https://img.shields.io/badge/WHATSAPP-8b0000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
