@@ -33,12 +33,12 @@
 <br>
 
 ### 𝕴𝖓𝖋𝖔𝕾𝖊𝖈
-*Amante de segurança da informação: proteger, entender e aprender como as coisas quebram.*
+*Amante de segurança da informação: como tudo funciona no backstage me fascina mais.*
 
 <br>
 
 ### 𝕯𝖊𝖆𝖑 𝕳𝖚𝖓𝖙𝖊𝖗
-*Caçador de ofertas nato: se existe desconto, eu acho.*
+*Caçador de ofertas nato: se existe uma oportunidade, eu acho.*
 
 </div>
 
