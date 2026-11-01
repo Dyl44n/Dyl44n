@@ -1,14 +1,12 @@
 <div align="center">
 
-# 𝕲𝖆𝖇𝖗𝖎𝖊𝖑<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=34&duration=3500&pause=1200&color=E8E8E8&center=true&vCenter=true&width=700&height=60&lines=Gabriel;Entusiasta+Tech;Estudando+C%23;Cyber+Security;Deal+Hunter" alt="Gabriel" />
 
 <br>
 
 ☩ ━━━━━━━━━━━ ✠ ━━━━━━━━━━━ ☩
 
-🌹 &nbsp; 💀 &nbsp; 🕊️ &nbsp; 💀 &nbsp; 🌹
+👨‍💻 &nbsp; 💭​ &nbsp; 🏄🏼​ &nbsp; 💲​ &nbsp; 😎​
 
 ☩ ━━━━━━━━━━━ ✠ ━━━━━━━━━━━ ☩
 
@@ -62,17 +60,17 @@
 
 ## ✠ 𝕮𝖔𝖓𝖙𝖆𝖙𝖔 ✠
 
-<a href="https://instagram.com/SEU_USUARIO">
+<a href="https://instagram.com/gabriel_dylan17">
   <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://wa.me/55SEUNUMEROCOMDDD">
+<a href="https://wa.me/79998547050">
   <img src="https://img.shields.io/badge/WHATSAPP-8b0000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br><br>
 
-🌹 &nbsp; 💀 &nbsp; 🕊️ &nbsp; 💀 &nbsp; 🌹
+👨‍💻 &nbsp; 💭​ &nbsp; 🏄🏼​ &nbsp; 💲​ &nbsp; 😎
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:1a1a1a,100:000000&height=120&section=footer" width="100%" />
 
