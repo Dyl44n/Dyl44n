@@ -2,8 +2,6 @@
 
 # 𝕲𝖆𝖇𝖗𝖎𝖊𝖑<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:8b0000&height=200&section=header&text=%F0%9D%96%8E%F0%9D%96%8A%F0%9D%96%87%F0%9D%96%97%F0%9D%96%8E%F0%9D%96%8A%F0%9D%96%8D&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=34&duration=3500&pause=1200&color=E8E8E8&center=true&vCenter=true&width=700&height=60&lines=Gabriel;Entusiasta+Tech;Estudando+C%23;Cyber+Security;Deal+Hunter" alt="Gabriel" />
 
 <br>
