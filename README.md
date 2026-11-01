@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner" width="600" />
-
 # 𝕲𝖆𝖇𝖗𝖎𝖊𝖑<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:8b0000&height=200&section=header&text=%F0%9D%96%8E%F0%9D%96%8A%F0%9D%96%87%F0%9D%96%97%F0%9D%96%8E%F0%9D%96%8A%F0%9D%96%8D&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
