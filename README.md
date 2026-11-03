@@ -1,64 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=34&duration=3500&pause=1200&color=E8E8E8&center=true&vCenter=true&width=700&height=60&lines=Gabriel;Entusiasta+Tech;Estudando+C%23;Cyber+Security;Deal+Hunter" alt="Gabriel" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&duration=3500&pause=1200&color=E8E8E8&center=true&vCenter=true&width=700&height=70&lines=Gabriel;Entusiasta+Tech;Estudando+C%23;Cyber+Security;Deal+Hunter" alt="Gabriel: Entusiasta Tech, Estudando C#, Cyber Security, Deal Hunter" />
 
 <br>
 
-☩ ━━━━━━━━━━━ ✠ ━━━━━━━━━━━ ☩
+✧ ─────────── ❀ ─────────── ✧
 
-👨‍💻 &nbsp; 💭​ &nbsp; 🏄🏼​ &nbsp; 💲​ &nbsp; 😎​
+👨‍💻 &nbsp; 💭 &nbsp; 🏄🏼 &nbsp; 💲 &nbsp; 😎
 
-☩ ━━━━━━━━━━━ ✠ ━━━━━━━━━━━ ☩
-
-</div>
+✧ ─────────── ❀ ─────────── ✧
 
 <br>
 
-<div align="center">
+## 𝓠𝓾𝓮𝓶 𝓢𝓸𝓾
 
-## ✠ 𝕼𝖚𝖊𝖒 𝕾𝖔𝖚 ✠
-
-</div>
-
-<div align="center">
-
-### 𝕰𝖓𝖙𝖚𝖘𝖎𝖆𝖘𝖙𝖆 𝕿𝖊𝖈𝖍
+### 𝓔𝓷𝓽𝓾𝓼𝓲𝓪𝓼𝓽𝓪 𝓣𝓮𝓬𝓱
 *Apaixonado por tecnologia, inovação e tudo que roda em código.*
 
-<br>
-
-### 𝕰𝖘𝖙𝖚𝖉𝖆𝖓𝖉𝖔 𝕮#
+### 𝓔𝓼𝓽𝓾𝓭𝓪𝓷𝓭𝓸 𝓒#
 *Estudando programação em C#, linha por linha, projeto por projeto.*
 
-<br>
+### 𝓘𝓷𝓯𝓸𝓢𝓮𝓬
+*Amante de segurança da informação: entender como tudo funciona nos bastidores me fascina.*
 
-### 𝕴𝖓𝖋𝖔𝕾𝖊𝖈
-*Amante de segurança da informação: como tudo funciona no backstage me fascina mais.*
-
-<br>
-
-### 𝕯𝖊𝖆𝖑 𝕳𝖚𝖓𝖙𝖊𝖗
+### 𝓓𝓮𝓪𝓵 𝓗𝓾𝓷𝓽𝓮𝓻
 *Caçador de ofertas nato: se existe uma oportunidade, eu acho.*
 
-</div>
-
 <br>
 
-<div align="center">
+✧ ─────────── ❀ ─────────── ✧
 
-☩ ━━━━━━━━━━━ ✠ ━━━━━━━━━━━ ☩
-
-## ✠ 𝕾𝖙𝖆𝖈𝖐 ✠
+## 𝓢𝓽𝓪𝓬𝓴
 
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white)
-![Security](https://img.shields.io/badge/INFOSEC-8b0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![InfoSec](https://img.shields.io/badge/INFOSEC-8b0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
 
-☩ ━━━━━━━━━━━ ✠ ━━━━━━━━━━━ ☩
+<br>
 
-## ✠ 𝕮𝖔𝖓𝖙𝖆𝖙𝖔 ✠
+✧ ─────────── ❀ ─────────── ✧
+
+## 𝓒𝓸𝓷𝓽𝓪𝓽𝓸
 
 <a href="https://instagram.com/gabriel_dylan17">
   <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -70,44 +54,6 @@
 
 <br><br>
 
-👨‍💻 &nbsp; 💭​ &nbsp; 🏄🏼​ &nbsp; 💲​ &nbsp; 😎
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:1a1a1a,100:000000&height=120&section=footer" width="100%" />
-
-</div>
-
-<img src="assets/divider.svg" alt="" width="420" />
-
-</div>
-
-<br>
-
-**𝕰𝖓𝖙𝖚𝖘𝖎𝖆𝖘𝖙𝖆 𝕿𝖊𝖈𝖍** &nbsp;·&nbsp; entusiasta de tecnologia
-
-**𝕰𝖘𝖙𝖚𝖉𝖆𝖓𝖉𝖔 𝕮#** &nbsp;·&nbsp; estudando programação em C#
-
-**𝕴𝖓𝖋𝖔𝕾𝖊𝖈** &nbsp;·&nbsp; amante de segurança da informação
-
-**𝕯𝖊𝖆𝖑 𝕳𝖚𝖓𝖙𝖊𝖗** &nbsp;·&nbsp; caçador de ofertas
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github&theme=dark" alt="Stack" />
-
-<br><br>
-
-<img src="assets/divider.svg" alt="" width="420" />
-
-<br>
-
-<a href="https://instagram.com/gabriel_dylan17">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;
-<a href="https://wa.me/5579998547050">
-  <img src="https://img.shields.io/badge/WHATSAPP-8b0000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:1a1a1a,100:000000&height=120&section=footer" width="100%" alt="" />
 
 </div>
